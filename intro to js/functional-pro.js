@@ -15,7 +15,7 @@ console.log(style);
 Build another 
 console log message generator */
 
-function celebrateStyler("reason") {
+function celebrateStyler(reason) {
     var fontStyle = "color: tomato; font-size: 50px;"
     if(reason == "birthday") {
         console.log(`%cHappy birthday`, fontSize);
